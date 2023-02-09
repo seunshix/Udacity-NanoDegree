@@ -1,5 +1,5 @@
 ## Udacity Data Science Nanodegree Repository
-This repository contains the projects and exercises completed during my Udacity Data Science Nanodegree program. The focus of this program was to gain a comprehensive understanding of the data science process, from start to finish. The following are the topics covered in this program:
+This repository contains the exercises completed during my Udacity Data Science Nanodegree program. The focus of this program was to gain a comprehensive understanding of the data science process, from start to finish. The following are the topics covered in this program:
 
 ### Data Science Process
 The data science process includes steps such as formulating a question, collecting data, cleaning and preprocessing data, exploring and visualizing data, building models and finally communicating the results. This course provided a thorough understanding of these steps and their importance in a data science project.
